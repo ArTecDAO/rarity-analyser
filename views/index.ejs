@@ -13,12 +13,12 @@
     -%>
   </head>
   <body class="d-flex text-white bg-dark" style="min-height: 100%;">
-    <a class="nav-link <% if (activeTab == 'rarity') { %> active <% } %>" aria-current="page" href="/">Rarity</a>
-    <a class="nav-link <% if (activeTab == 'matrix') { %> active <% } %>" href="/matrix">Matrix</a>
     <div class="container d-flex w-100 p-3 mx-auto flex-column" style="min-height: 100%; max-width: 72em;">
       <%- include('./component/header'); -%>
       <main class="px-3" style="min-height: 100%;">
         <h1 class="superbig upper text-center pixel-font"><%= collection_name %></h1>
+        <a class="nav-link <% if (activeTab == 'rarity') { %> active <% } %>" aria-current="page" href="/">Rarity</a>
+        <a class="nav-link <% if (activeTab == 'matrix') { %> active <% } %>" href="/matrix">Matrix</a>
         <form class="search text-center">
           <fieldset>
             <input class="search-text-input" type="text" name="search" placeholder="Search by ID..." value="<%= search %>">
