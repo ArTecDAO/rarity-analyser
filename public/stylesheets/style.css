@@ -484,3 +484,7 @@ a:hover .punk-info svg:not(.shadow) {
   /* Instead use this non-standard one: */
   word-break: break-word;
 }
+
+.pixel-font {
+  font-family: "P1";
+}
