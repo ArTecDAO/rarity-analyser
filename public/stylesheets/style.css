@@ -516,6 +516,9 @@ a:hover .punk-info svg:not(.shadow) {
 }
 
 a {
-    color: #ed3c0d!important;
     text-decoration: none;
+}
+
+.b-logo a {
+    color:#ed3c0d ;
 }
