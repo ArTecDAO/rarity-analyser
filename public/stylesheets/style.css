@@ -268,7 +268,7 @@ body {
 }
 
 .trait-fileter-offcanvas {
-  background-color: var(--primary-dark); 
+  background-color: #333; 
   color: var(--white);
 }
 
@@ -549,4 +549,9 @@ a {
     margin-top: calc(var(--bs-gutter-y) * -1);
     margin-right: calc(var(--bs-gutter-x) * -1);
     margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+
+.bg-black {
+    --bs-bg-opacity: 1;
+    background-color: #000;
 }
