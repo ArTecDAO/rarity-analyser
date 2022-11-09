@@ -554,9 +554,14 @@ a {
 .bg-black {
     background-image: url(/images/bg.png);
     background-color: #000;
-    opacity: .2;
     background-repeat：no-repeat;
-    background-position: bottom right;
+    background-position: bottom right;    
+}
+
+.bbg-black {
+    background-color: #000;
+    opacity: .2;
+    z-index: -999;
 }
 
 .m-total {
