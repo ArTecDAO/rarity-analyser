@@ -9,7 +9,7 @@ const config = {
     ignore_traits: ['date'], 
     sqlite_file_name: 'database.sqlite',
     ga: '',
-    main_og_image: 'https://onedaypunk-rarity-tool.herokuapp.com/images/og.png',
+    main_og_image: 'https://onedaypunk-rarity-tool.herokuapp.com/images/logo.png',
     item_path_name: 'punk',
     page_item_num: 60,
     content_image_is_video: false,
