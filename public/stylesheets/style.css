@@ -555,3 +555,12 @@ a {
     --bs-bg-opacity: 1;
     background-color: #000;
 }
+
+.m-total {
+    font-size: 3rem;
+    font-family: "P1";
+    font-weight: 700;
+    line-height: var(--line-height-heading);
+    margin: 3rem 0 0 0;
+    color: #ff0555;
+}
