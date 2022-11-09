@@ -572,3 +572,11 @@ a {
     margin: 0 auto;
     border: 3px solid #ff0555;
 }
+
+.m-minibig {
+    font-size: 5rem;
+    color: #ed3c0d;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    margin-top: -2rem;
+}
