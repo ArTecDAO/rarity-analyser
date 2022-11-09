@@ -487,3 +487,7 @@ a:hover .punk-info svg:not(.shadow) {
 .pixel-font {
   font-family: "P1";
 }
+
+.a-btn{
+  margin-bottom: 20px;
+}
