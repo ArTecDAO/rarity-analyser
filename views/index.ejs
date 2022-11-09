@@ -18,10 +18,10 @@
       <main class="px-3" style="min-height: 100%;">
         <h1 class="superbig upper text-center pixel-font"><%= collection_name %></h1>
       <div class="text-center a-btn">
-        <a class="b-btn btn btn-primary" href="#traitFilterOffcanvas">
+        <a class="b-btn btn btn-primary <% if (activeTab == 'rarity') { %> active <% } %>" href="/">
             RARITY 
         </a>
-        <a class="b-btn btn btn-primary" href="#traitFilterOffcanvas">
+        <a class="b-btn btn btn-primary <% if (activeTab == 'rarity') { %> active <% } %>" href="/matrix">
             MATRIX 
         </a>
         </div>
