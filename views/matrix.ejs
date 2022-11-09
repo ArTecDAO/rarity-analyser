@@ -13,6 +13,14 @@
     -%>
   </head>
   <body class="d-flex text-white bg-dark" style="min-height: 100%;">
+    <div class="text-center a-btn">
+        <a class="b-btn btn <% if (activeTab == 'rarity') { %> active <% } %>" href="/">
+            RARITY 
+        </a>
+        <a class="b-btn btn <% if (activeTab == 'matrix') { %> active <% } %>" href="/matrix">
+            MATRIX 
+        </a>
+    </div>
     
     <div class="container d-flex w-100 p-3 mx-auto flex-column" style="min-height: 100%; max-width: 72em;">
       <%- include('./component/header'); -%>
