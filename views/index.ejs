@@ -17,9 +17,9 @@
       <%- include('./component/header'); -%>
       <main class="px-3" style="min-height: 100%;">
         <h1 class="superbig upper text-center pixel-font"><%= collection_name %></h1>
-        <span class="two-button">
+        <div class="two-button float-md-end">
           <a class="nav-link <% if (activeTab == 'rarity') { %> active <% } %>" aria-current="page" href="/">Rarity</a><a class="nav-link <% if (activeTab == 'matrix') { %> active <% } %>" href="/matrix">Matrix</a>
-        </span>
+        </div>
         <form class="search text-center">
           <fieldset>
             <input class="search-text-input" type="text" name="search" placeholder="Search by ID..." value="<%= search %>">
