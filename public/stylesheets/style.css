@@ -552,11 +552,15 @@ a {
 }
 
 .bg-black {
+    background-color: #000;
+}
+
+.bg-pic {
     background-image: url(/images/bg.png);
     background-color: #000;
     background-repeat：no-repeat;
     background-position: bottom right;
-    position: fixed;
+    position: absolute;
 }
 
 .m-total {
