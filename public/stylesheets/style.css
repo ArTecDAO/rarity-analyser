@@ -521,12 +521,12 @@ a {
 
 .p-btn {
     color: #fff;
-    background-color: #ed3c0d;
-    border-color: #ed3c0d;
+    background-color: #ff0555;
+    border-color: #ff0555;
 }
 
 .p-btn:hover {
     color: #fff;
-    background-color: #c3401d;
-    border-color: #c3401d;
+    background-color: #d91856;
+    border-color: #d91856;
 }
