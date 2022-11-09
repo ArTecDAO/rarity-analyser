@@ -1,48 +1,1802 @@
-{
-    "id": 1,
-    "name": "ETHW Inu #1",
-    "description": "ETHW Inu First MEME NFT",
-    "image": "ipfs://QmR5HFuMrseHM8PoLU2w3H8ATm5e3rT9C6EgKYFNwc3Fzt/1.png",
-    "dna": "5fdd4b49c6726d107468a5582f1a87cabef2fe2e",
-    "edition": 1,
-    "date": 1665934754609,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Sky"
-      },
-      {
-        "trait_type": "Rocket",
-        "value": "Rigorous"
-      },
-      {
-        "trait_type": "Fire",
-        "value": "Fluorescence"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dream"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blood"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Nerd"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bib"
-      },
-      {
-        "trait_type": "Shoes",
-        "value": "Converse"
-      },
-      {
-        "trait_type": "Hand",
-        "value": "Pen"
-      }
-    ],
-    "compiler": "Art Engine"
-  }
+[
+    {
+      "id": 26,
+      "name": "Tori Doge #26",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/26.png",
+      "dna": "68e0445e897774e63da10aad8303f8bb4d3c207a",
+      "edition": 26,
+      "date": 1667995958396,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Devil"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 8,
+      "name": "Tori Doge #8",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/8.png",
+      "dna": "1348b13b6c45ecafe80b23b679ff5e0c92859c48",
+      "edition": 8,
+      "date": 1667995958461,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Shiba"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Surprise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 36,
+      "name": "Tori Doge #36",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/36.png",
+      "dna": "cbf4c6f29ba8f8186bac42d43bfb71a5dd8184b0",
+      "edition": 36,
+      "date": 1667995958519,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 16,
+      "name": "Tori Doge #16",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/16.png",
+      "dna": "ce3560a680c4b709060318fb94e8ed0a03aec3ae",
+      "edition": 16,
+      "date": 1667995958582,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Despise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 14,
+      "name": "Tori Doge #14",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/14.png",
+      "dna": "646f389e536039a455a7aeeac4f6b158d9c119c6",
+      "edition": 14,
+      "date": 1667995958640,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Devil"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Meditation"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 45,
+      "name": "Tori Doge #45",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/45.png",
+      "dna": "e4670b4825a97d8c2be2c3d5ed882652a604d22d",
+      "edition": 45,
+      "date": 1667995958697,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "5"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Devil"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cry"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 19,
+      "name": "Tori Doge #19",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/19.png",
+      "dna": "e6822fd00aa41613db9fd33af5192317419969e0",
+      "edition": 19,
+      "date": 1667995958755,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Apathy"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Variation"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 3,
+      "name": "Tori Doge #3",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/3.png",
+      "dna": "f46ad857230e122e3fa4c33dcdff5ca992b54682",
+      "edition": 3,
+      "date": 1667995958807,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "5"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Corpse"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Despise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Cute"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 38,
+      "name": "Tori Doge #38",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/38.png",
+      "dna": "b258787187f8af1f84918c5ceee7cdbeadeff979",
+      "edition": 38,
+      "date": 1667995958861,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Cross"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 11,
+      "name": "Tori Doge #11",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/11.png",
+      "dna": "a9769c1d858b49af008cd17a80d80738dc63ca20",
+      "edition": 11,
+      "date": 1667995958919,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Cross"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Dream"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 40,
+      "name": "Tori Doge #40",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/40.png",
+      "dna": "b71fdef6fdb56abff95df2a765dd2a2d458338ef",
+      "edition": 40,
+      "date": 1667995958979,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Pure"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 31,
+      "name": "Tori Doge #31",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/31.png",
+      "dna": "5ae5b6f0bd364ae839cc741ca71fbe7471a98226",
+      "edition": 31,
+      "date": 1667995959046,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Happy"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Boots"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 46,
+      "name": "Tori Doge #46",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/46.png",
+      "dna": "b925ddafdb79a6bf1db1b30d2413fd886b2d10a0",
+      "edition": 46,
+      "date": 1667995959101,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Happy"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 9,
+      "name": "Tori Doge #9",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/9.png",
+      "dna": "36e2d9e0bf48c4a22aba33baee31d09ca1a89a28",
+      "edition": 9,
+      "date": 1667995959165,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "8"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pale"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Roller"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 48,
+      "name": "Tori Doge #48",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/48.png",
+      "dna": "67041ef5fb686f175e3ebbe37784480875633fab",
+      "edition": 48,
+      "date": 1667995959224,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amimia"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 32,
+      "name": "Tori Doge #32",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/32.png",
+      "dna": "2c0036ded1f6cd1a94166b1f65146080765a71d8",
+      "edition": 32,
+      "date": 1667995959280,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Apathy"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cry"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Cute"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 15,
+      "name": "Tori Doge #15",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/15.png",
+      "dna": "a88cf2c868bb3a5c987e943faf330d4470ab3d18",
+      "edition": 15,
+      "date": 1667995959339,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Despise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 28,
+      "name": "Tori Doge #28",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/28.png",
+      "dna": "676355f22475bdf59d094962357a62979b320e71",
+      "edition": 28,
+      "date": 1667995959408,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Apathy"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 35,
+      "name": "Tori Doge #35",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/35.png",
+      "dna": "b494b0500ae0738c40ea6cf423ba8c33f326ee38",
+      "edition": 35,
+      "date": 1667995959475,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nerd"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Cross"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Socks"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 42,
+      "name": "Tori Doge #42",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/42.png",
+      "dna": "c060cb2c2fd3c8425339982594b2a9e74a35e515",
+      "edition": 42,
+      "date": 1667995959548,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "3"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Variation"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Cross"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Socks"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 12,
+      "name": "Tori Doge #12",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/12.png",
+      "dna": "77a8731204b0f51e4c1928e1df802308a0a37c38",
+      "edition": 12,
+      "date": 1667995959612,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Shiba"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 2,
+      "name": "Tori Doge #2",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/2.png",
+      "dna": "1005bdc91109cd946e5dc6bfa8871cea568ec660",
+      "edition": 2,
+      "date": 1667995959668,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Despise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 50,
+      "name": "Tori Doge #50",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/50.png",
+      "dna": "29b4a4ed3115cf0b0232ffec3d3657b6349ac216",
+      "edition": 50,
+      "date": 1667995959720,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 44,
+      "name": "Tori Doge #44",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/44.png",
+      "dna": "e25317b48cacb3e6742b22579e5c02a4c01afef6",
+      "edition": 44,
+      "date": 1667995959774,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amimia"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 17,
+      "name": "Tori Doge #17",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/17.png",
+      "dna": "ef69ddd618e88d182623bdbd5811aff1aeec15fc",
+      "edition": 17,
+      "date": 1667995959832,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Happy"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Pure"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 22,
+      "name": "Tori Doge #22",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/22.png",
+      "dna": "bfa8e08642981f13452904a2bd2ea7fe3e18a85f",
+      "edition": 22,
+      "date": 1667995959893,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Meditation"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 4,
+      "name": "Tori Doge #4",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/4.png",
+      "dna": "cec1dfc470dc61d433af6b5ac82122cd05ce44c8",
+      "edition": 4,
+      "date": 1667995959977,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 7,
+      "name": "Tori Doge #7",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/7.png",
+      "dna": "113dd1d5cf4d2f259be2712d25e8d378d94d3abd",
+      "edition": 7,
+      "date": 1667995960039,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cry"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 34,
+      "name": "Tori Doge #34",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/34.png",
+      "dna": "a864aaf710f0e1a6d8cd04e8e12f114e48694cca",
+      "edition": 34,
+      "date": 1667995960116,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "6"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 29,
+      "name": "Tori Doge #29",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/29.png",
+      "dna": "1fa6314d4c4b8b2e143e61637b80b41e2a7ddcf3",
+      "edition": 29,
+      "date": 1667995960174,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "1"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Surprise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 25,
+      "name": "Tori Doge #25",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/25.png",
+      "dna": "c89685b7621f5ddd6ab9fffc8c5ab17ea05fed1c",
+      "edition": 25,
+      "date": 1667995960233,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "6"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 13,
+      "name": "Tori Doge #13",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/13.png",
+      "dna": "ab376199c2b7b8e823c0f236447706f941901aa0",
+      "edition": 13,
+      "date": 1667995960289,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pale"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cry"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Cross"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 41,
+      "name": "Tori Doge #41",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/41.png",
+      "dna": "e8fff0cff99d0c4ab59d235801979d605ca3b343",
+      "edition": 41,
+      "date": 1667995960343,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 20,
+      "name": "Tori Doge #20",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/20.png",
+      "dna": "d3d44f32ab951d7fbfcab65662ddfdabfbc3f0f0",
+      "edition": 20,
+      "date": 1667995960395,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 6,
+      "name": "Tori Doge #6",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/6.png",
+      "dna": "7c7e3efef202b219cc1d8012efcc650836a3db9a",
+      "edition": 6,
+      "date": 1667995960447,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "8"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Shiba"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 1,
+      "name": "Tori Doge #1",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/1.png",
+      "dna": "91a616536e9ef1ac64c425d321e7a562f9c5b8b9",
+      "edition": 1,
+      "date": 1667995960500,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pale"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cry"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 27,
+      "name": "Tori Doge #27",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/27.png",
+      "dna": "f04f2961ab0c7ab9031cf531c082449e9a473b31",
+      "edition": 27,
+      "date": 1667995960555,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Happy"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 18,
+      "name": "Tori Doge #18",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/18.png",
+      "dna": "fa2f96dbf0194375995b8947f73bd4f715f8c7e0",
+      "edition": 18,
+      "date": 1667995960613,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Despise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 39,
+      "name": "Tori Doge #39",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/39.png",
+      "dna": "87787d7612ba3131182cfd20a7bf0b88f85e2ee7",
+      "edition": 39,
+      "date": 1667995960671,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Devil"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 21,
+      "name": "Tori Doge #21",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/21.png",
+      "dna": "81d169abcc593c9167d2ef11def1decb260f7f49",
+      "edition": 21,
+      "date": 1667995960730,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Devil"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Medal"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Converse"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 37,
+      "name": "Tori Doge #37",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/37.png",
+      "dna": "6beaed8b2ebc54922dbb9f151deb338eb32dbd6e",
+      "edition": 37,
+      "date": 1667995960799,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wild"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wink"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 33,
+      "name": "Tori Doge #33",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/33.png",
+      "dna": "90b530417cf526e222b37317ae850f3813ba74a6",
+      "edition": 33,
+      "date": 1667995960861,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Coffee"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Spit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amimia"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 24,
+      "name": "Tori Doge #24",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/24.png",
+      "dna": "0e631731be4e0f9cb67b4777848c55397c820553",
+      "edition": 24,
+      "date": 1667995960915,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Corpse"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Boots"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 10,
+      "name": "Tori Doge #10",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/10.png",
+      "dna": "d20ad5644992fe9f2670eed46ed96e3d98185027",
+      "edition": 10,
+      "date": 1667995960968,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "5"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Corpse"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Meditation"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 49,
+      "name": "Tori Doge #49",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/49.png",
+      "dna": "9350f4461626269c36dff0448bfcb51e5179c1c2",
+      "edition": 49,
+      "date": 1667995961021,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dream"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Happy"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 30,
+      "name": "Tori Doge #30",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/30.png",
+      "dna": "d3490be56e6a1c127aab4fe8889c6fdd81f213ff",
+      "edition": 30,
+      "date": 1667995961072,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Coffee"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Happy"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 23,
+      "name": "Tori Doge #23",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/23.png",
+      "dna": "6e58959f5ba25481f8ddee7a010e5d9765679df7",
+      "edition": 23,
+      "date": 1667995961127,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Surprise"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Scarf"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Grace"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 43,
+      "name": "Tori Doge #43",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/43.png",
+      "dna": "844c0ee9dcc9f5566c893fbb181ad365a62e4495",
+      "edition": 43,
+      "date": 1667995961184,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Dora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shock"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blood"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Necktie"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sandals"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 5,
+      "name": "Tori Doge #5",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/5.png",
+      "dna": "3eaff707418e4c133bdc2171b05854568ced1e40",
+      "edition": 5,
+      "date": 1667995961237,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Apathy"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Sport"
+        }
+      ],
+      "compiler": "Art Engine"
+    },
+    {
+      "id": 47,
+      "name": "Tori Doge #47",
+      "description": "A group of homeless doges facing abandonment,Shine again because of TeritoriNetwork.",
+      "image": "ipfs://QmTZV831jYZwqr38299uhvrt2VM5hAHegGAiJhjBSg7Kow/47.png",
+      "dna": "fc41e9484c03791e29abae35ccada3fe3ab8c4bd",
+      "edition": 47,
+      "date": 1667995961289,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "5"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Pale"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cheerful"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cry"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Bib"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Roller"
+        }
+      ],
+      "compiler": "Art Engine"
+    }
+  ]
