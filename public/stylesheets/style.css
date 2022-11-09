@@ -552,7 +552,7 @@ a {
 }
 
 .bg-black {
-    --bs-bg-opacity: 1;
+    background-image: url(/images/bg.png);
     background-color: #000;
 }
 
