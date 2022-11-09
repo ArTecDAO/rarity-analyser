@@ -506,3 +506,11 @@ a:hover .punk-info svg:not(.shadow) {
   background-color: #b9563c;
   border-color: #b9563c;
 }
+
+.minibig{
+  font-size: 3rem;
+  color: #ffff00;
+  margin-bottom: 2rem;
+  font-weight: 700;
+  margin-top: -2rem;
+}
