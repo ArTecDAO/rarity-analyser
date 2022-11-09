@@ -497,6 +497,7 @@ a:hover .punk-info svg:not(.shadow) {
   margin-left: 10px;
   margin-right: 10px;
   color: #fff;
+  border: none;
 }
 
 .t1-btn{
