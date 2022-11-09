@@ -577,6 +577,7 @@ body::before {
     background: #ff0555;
     position: relative;
     padding: 0 10rem;
+    border-radius: 10px 10px 0 0;
 }
 
 .m-num{
