@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "name": "ETHW Inu #1",
+    "description": "ETHW Inu First MEME NFT",
+    "image": "ipfs://QmR5HFuMrseHM8PoLU2w3H8ATm5e3rT9C6EgKYFNwc3Fzt/1.png",
+    "dna": "5fdd4b49c6726d107468a5582f1a87cabef2fe2e",
+    "edition": 1,
+    "date": 1665934754609,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Rocket",
+        "value": "Rigorous"
+      },
+      {
+        "trait_type": "Fire",
+        "value": "Fluorescence"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dream"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blood"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nerd"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bib"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Converse"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Pen"
+      }
+    ],
+    "compiler": "Art Engine"
+  }
