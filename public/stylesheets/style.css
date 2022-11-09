@@ -492,19 +492,25 @@ a:hover .punk-info svg:not(.shadow) {
   margin-bottom: 20px;
 }
 
-.b-btn{
+.b-btn a{
   border-radius: var(--size-5);
   margin-left: 10px;
   margin-right: 10px;
   color: #fff;
-  background-color: #ed3c0d;
-  border-color: #ed3c0d;
 }
 
-.b-btn .active {
+.b-btn .active a {
   color: #ddd;
   background-color: #b9563c;
   border-color: #b9563c;
+}
+
+.t1-btn{
+  background: linear-gradient(to right, rgb(64, 224, 208), rgb(255, 140, 0), rgb(255, 0, 128));
+}
+
+.t2-btn{
+  background: linear-gradient(to right, rgb(252, 0, 255), rgb(0, 219, 222));
 }
 
 .minibig{
