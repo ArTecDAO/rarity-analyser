@@ -277,6 +277,7 @@ body {
     background-color: #000;
     border-radius: 10px;
     max-height: 280px;
+    border:none;
 }
 
 .punk-info {
