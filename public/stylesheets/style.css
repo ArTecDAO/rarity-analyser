@@ -500,3 +500,9 @@ a:hover .punk-info svg:not(.shadow) {
   background-color: #ed3c0d;
   border-color: #ed3c0d;
 }
+
+.b-btn .active {
+  color: #ddd;
+  background-color: #b9563c;
+  border-color: #b9563c;
+}
