@@ -555,7 +555,7 @@ a {
     background-image: url(/images/bg.png);
     background-color: #000;
     opacity: .2;
-    background-repeat：none;
+    background-repeat：no-repeat;
     background-position: bottom right;
 }
 
