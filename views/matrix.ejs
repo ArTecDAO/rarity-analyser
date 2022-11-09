@@ -31,7 +31,7 @@
       <main class="px-3" style="min-height: 100%;">
         <h1 class="m-total upper text-center">Total</h1>
         <h1 class="superbig upper text-center pixel-font m-num"><%= totalPunkCount %></h1>
-        <hr style="background: linear-gradient(to right, #E7C737 0%, #28B35B 50%, transparent 0%);opacity: 1;width: 200%;margin-bottom: 5rem;">
+        <hr style="background: linear-gradient(to right, #E7C737 0%, #28B35B 50%, transparent 0%);opacity: 1;width: 200%;margin: 3rem 0 5rem 0;">
         <h1 class="m-minibig pixel-font upper text-center">Trait Type Matrix</h1>
         <%
         let currentTrait = '';
@@ -46,7 +46,7 @@
                   <%
                 }
               %>
-                <h3><%= allTrait.trait_type %></h3>
+                <h3 class="mm-minibig pixel-font upper text-center"><%= allTrait.trait_type %></h3>
                 <div class="d-flex flex-wrap justify-content-center">
                   <div class="tile">
                     <h4><%= allTrait.trait_type %></h4>
