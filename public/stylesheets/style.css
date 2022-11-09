@@ -575,8 +575,17 @@ a {
 
 .m-minibig {
     font-size: 5rem;
-    color: #ed3c0d;
+    color: #fff;
     margin-bottom: 2rem;
     font-weight: 700;
     margin-top: -2rem;
+}
+
+.mm-minibig {
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    background: linear-gradient(to right, rgb(236, 0, 140), rgb(252, 103, 103));
+    padding: 10px 0;
 }
