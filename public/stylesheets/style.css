@@ -515,7 +515,7 @@ a:hover .punk-info svg:not(.shadow) {
   margin-top: -2rem;
 }
 
-#title h1 a, #title h1 a:hover {
+#title a, #title a:hover {
   position: relative;
   color: #fff;
   display: inline-block;
@@ -524,17 +524,17 @@ a:hover .punk-info svg:not(.shadow) {
   -webkit-text-fill-color:transparent;
 }
 
-#title h1 a::before {  
+#title a::before {  
   transform: scaleX(0);
   transform-origin: bottom right;
 }
 
-#title h1 a:hover::before {
+#title a:hover::before {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
 
-#title h1 a::before {
+#title a::before {
   content: " ";
   display: block;
   position: absolute;
