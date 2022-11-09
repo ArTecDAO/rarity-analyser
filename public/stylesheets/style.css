@@ -458,7 +458,7 @@ a:hover .punk-info svg:not(.shadow) {
   color: var(--white);
   font-size: var(--font-size-lg);
   margin: 10px;
-  overflow: scroll;
+  overflow: hidden;
   padding: 20px 10px;
 }
 
