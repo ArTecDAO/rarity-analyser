@@ -519,6 +519,14 @@ a {
     text-decoration: none;
 }
 
-.b-logo a {
-    color:#ed3c0d!important;
+.p-btn {
+    color: #fff;
+    background-color: #ed3c0d;
+    border-color: #ed3c0d;
+}
+
+.p-btn:hover {
+    color: #fff;
+    background-color: #c3401d;
+    border-color: #c3401d;
 }
