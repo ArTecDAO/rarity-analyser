@@ -556,12 +556,13 @@ a {
 }
 
 .bg-pic {
-    background-image: url(/images/bg.png);
+    background-image: url(/images/bg.png) no-repeat;
     background-color: #000;
-    background-repeat：no-repeat;
     background-position: bottom right;
     position: absolute;
-    z-index: -99;
+    z-index: -999;
+    bottom:0;
+    opacity: .2;
 }
 
 .m-total {
