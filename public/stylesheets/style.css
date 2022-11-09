@@ -490,8 +490,10 @@ a:hover .punk-info svg:not(.shadow) {
 
 .a-btn{
   margin-bottom: 20px;
-  width: 100%;
-  max-width: 10rem!important;
-  margin-left: 10px!important;
-  margin-right: 10px!important;
+}
+
+.b-btn{
+  border-radius: var(--size-5);
+  margin-left: 10px;
+ margin-right: 10px;
 }
