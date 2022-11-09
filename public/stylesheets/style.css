@@ -561,6 +561,7 @@ a {
     background-repeat：no-repeat;
     background-position: bottom right;
     position: absolute;
+    z-index: -99;
 }
 
 .m-total {
