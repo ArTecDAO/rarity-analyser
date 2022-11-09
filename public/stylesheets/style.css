@@ -495,5 +495,8 @@ a:hover .punk-info svg:not(.shadow) {
 .b-btn{
   border-radius: var(--size-5);
   margin-left: 10px;
- margin-right: 10px;
+  margin-right: 10px;
+  color: #fff;
+  background-color: #ed3c0d;
+  border-color: #ed3c0d;
 }
