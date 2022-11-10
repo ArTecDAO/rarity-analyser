@@ -718,3 +718,7 @@ body::before {
     padding-top: 15px;
     font-size: 1.2rem;
 }
+
+.ss-info span{
+    color:#333;
+}
