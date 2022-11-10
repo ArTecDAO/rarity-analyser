@@ -617,7 +617,16 @@ body::before {
 }
 
 .m5-tile {
-    font-size: 2rem!important;
+    font-size: 1.3rem!important;
     font-weight: 700!important;
     font-family: sans-serif!important;
+}
+
+.m6-tile {
+    font-size: var(--font-size-xxl);
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: var(--line-height-heading);
+    margin: var(--size-4) 0;
+    padding: 10px;
 }
