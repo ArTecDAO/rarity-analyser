@@ -740,4 +740,5 @@ body::before {
     font-size: 2rem;
     font-weight: 600;
     border: none;
+    margin-top: 20px;
 }
