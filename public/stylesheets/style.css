@@ -671,9 +671,14 @@ body::before {
     position: relative;
     font-family: "P1";
     font-weight: 700;
-    width: 100%;
     margin-top: 10px;
     text-transform: uppercase;
+}
+
+.s-info span {
+    font-size: 1.3rem;
+    color: #333;
+    text-decoration: none;
 }
 
 .s-minibig {
