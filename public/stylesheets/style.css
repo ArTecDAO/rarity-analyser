@@ -732,5 +732,12 @@ body::before {
 }
 
 .search-btn{
-
+    background: #ff0555;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 2rem;
+    font-weight: 600;
+    border: none;
 }
