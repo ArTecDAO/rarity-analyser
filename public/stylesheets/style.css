@@ -613,11 +613,11 @@ body::before {
 }
 
 .m4-tile {
-    font-family: sans-serif;
+    font-family: sans-serif!important;
 }
 
 .m5-tile {
-    font-size: 2rem;
-    font-weight: 700;
-    font-family: sans-serif;
+    font-size: 2rem!important;
+    font-weight: 700!important;
+    font-family: sans-serif!important;
 }
