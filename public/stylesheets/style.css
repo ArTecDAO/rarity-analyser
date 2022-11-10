@@ -671,8 +671,9 @@ body::before {
     position: relative;
     font-family: "P1";
     font-weight: 700;
-    margin-top: 10px;
+    margin: 0 auto;
     text-transform: uppercase;
+    padding-top: 15px;
 }
 
 .s-info span {
