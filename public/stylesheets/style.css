@@ -611,3 +611,13 @@ body::before {
     padding: 50px 0;
     margin-bottom: 100px;
 }
+
+.m4-tile {
+    style="font-family: sans-serif;"
+}
+
+.m5-tile {
+    style="font-size: 2rem
+    font-weight: 700;"
+    style="font-family: sans-serif;"
+}
