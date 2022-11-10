@@ -574,7 +574,7 @@ body::before {
     line-height: var(--line-height-heading);
     margin: 3rem 0 0 0;
     color: #fff;
-    background: #ff0555;
+    background: linear-gradient(to right, #f12711, rgb(245, 175, 25));
     position: relative;
     padding: 0 10rem;
     border-radius: 10px 10px 0 0;
@@ -582,7 +582,7 @@ body::before {
 
 .m-num{
     margin: 0 auto;
-    border: 3px solid #ff0555;
+    border: 3px solid #f12711;
     border-radius: 0 0 10px 10px;
 }
 
