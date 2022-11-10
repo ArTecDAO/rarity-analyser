@@ -372,21 +372,26 @@ a:hover .punk-info svg:not(.shadow) {
 }
 
 .rarity-score-block {
-  padding: 10px; 
-  background-color: var(--primary); 
-  border-radius: 10px;
+    padding: 10px;
+    background: linear-gradient(to right, #ec008c, #fc6767);
+    border-radius: 10px;
 }
 
 .rarity-score-block h4 {
-  font-size: var(--font-size-lg);
+    font-size: 1.5rem;
+    font-family: 'P1';
+    text-transform: uppercase;
 }
 
 .rarity-score-sum {
-  text-align: center;
-  font-size: var(--font-size-xl);
-  padding: 20px;
-  border-radius: 10px;
-  background-color: var(--semi-primary);
+    text-align: center;
+    font-size: 3rem;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #ec008c;
+    font-family: 'P1';
+    font-weight: 700;
 }
 
 .trait-type {
@@ -400,7 +405,7 @@ a:hover .punk-info svg:not(.shadow) {
 }
 
 .trait-value-block {
-  background-color: var(--primary-dark); 
+  background-color: #333; 
   border-radius: 10px;
   padding: 2px;
 }
@@ -413,18 +418,19 @@ a:hover .punk-info svg:not(.shadow) {
 }
 
 .trait-value-count {
-  background-color: var(--gray-300);
-  color: var(--black);
-  border-radius: 7px;
-  text-align: center;
-  width: 70px;
-  min-width: 70px;
-  height: 30px;
-  line-height: 30px;
-  font-size: var(--font-size-md);
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-right: 3px;
+    background-color: #fff;
+    color: #333;
+    border-radius: 7px;
+    text-align: center;
+    width: 70px;
+    min-width: 70px;
+    height: 30px;
+    line-height: 30px;
+    font-size: var(--font-size-md);
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 3px;
+    font-weight: 700;
 }
 
 .view-on-block {
