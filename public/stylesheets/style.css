@@ -655,7 +655,7 @@ body::before {
 
 .s-rank {
     color: #FFF;
-    font-family: "'P1'";
+    font-family: "P1";
     font-weight: 700;
     font-size: var(--font-size-lg);
     padding: 5px;
@@ -689,4 +689,13 @@ body::before {
     font-weight: 700;
     padding: 10px 0;
     border-radius: 10px;
+}
+
+.s-score {
+    color: #333;
+    text-align: center;
+    font-weight: 700;
+    font-size: var(--font-size-md);
+    font-family: 'P1';
+    text-transform: uppercase;
 }
