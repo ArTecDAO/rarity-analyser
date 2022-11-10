@@ -378,9 +378,10 @@ a:hover .punk-info svg:not(.shadow) {
 }
 
 .rarity-score-block h4 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-family: 'P1';
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .rarity-score-sum {
