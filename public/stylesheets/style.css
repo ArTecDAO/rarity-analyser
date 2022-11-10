@@ -453,7 +453,7 @@ a:hover .punk-info svg:not(.shadow) {
 
 .tile {
   width: 135px;
-  background-color: var(--primary-dark); 
+  background-color:#333; 
   border-radius: 10px;
   color: var(--white);
   font-size: var(--font-size-lg);
