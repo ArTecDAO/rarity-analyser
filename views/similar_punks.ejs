@@ -39,13 +39,13 @@
           <% if (!_.isEmpty(punk)) { %>
             <h1 class="s-minibig pixel-font upper text-center">Similar rank</h1>
             <div class="d-flex justify-content-center">
-              <div class="col-lg-3 col-md-4 col-sm-6 col-6" style="padding-left: 30px; padding-right: 30px;">
+              <div class="col-lg-2 col-md-4 col-sm-6 col-6" style="padding-left: 30px; padding-right: 30px;">
                 <%- include('./component/punk', {punk: punk}); -%>
               </div>
             </div>
             <hr class="mt-5 mb-5">
             <% similarPunks.forEach(function(similarPunk) { %>
-              <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-5" style="padding-left: 30px; padding-right: 30px;">
+              <div class="col-lg-3 col-md-4 col-sm-6 col-6 mb-5" style="padding-left: 30px; padding-right: 30px;">
                 <%- include('./component/punk2', {punk: similarPunk}); -%>
               </div>
             <% }); %>
