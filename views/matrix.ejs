@@ -78,12 +78,12 @@
         </h2>
         <% } %>
         <hr class="mt-5 mb-5">
-        <h1 class="heading upper text-center">Trait Count Matrix</h1>
+        <h1 class="heading upper text-center m6-tile">Trait Count Matrix</h1>
         <div class="d-flex flex-wrap justify-content-center">
             <% if (!_.isEmpty(allTraitCounts)) { %>
                 <% allTraitCounts.forEach(function(traitCount) { %>
                 <div class="tile">
-                    <h4><%= traitCount.trait_count %></h4>
+                    <h4 class="m5-tile"><%= traitCount.trait_count %></h4>
                     <p><%= ((traitCount.punk_count/totalPunkCount)*100).toFixed(2) %>% have <%= traitCount.trait_count %> traits</p>
                 </div>
                 <% }); %>
