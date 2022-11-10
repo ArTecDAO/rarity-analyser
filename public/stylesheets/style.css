@@ -334,9 +334,9 @@ a:hover .punk-info svg:not(.shadow) {
 
 .punk-rank {
     color: #FFF;
-    font-family: "'P1'";
+    font-family: "P1"!important;
     font-weight: 700;
-    font-size: var(--font-size-lg);
+    font-size: 2rem;
     padding: 5px;
     text-align: center;
     border-radius: 5px;
