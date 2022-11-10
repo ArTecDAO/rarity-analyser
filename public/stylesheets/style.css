@@ -344,7 +344,7 @@ a:hover .punk-info svg:not(.shadow) {
     color: #FFF;
     font-family: "P1"!important;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 1.8rem;
     padding: 5px;
     text-align: center;
     border-radius: 5px;
@@ -361,8 +361,8 @@ a:hover .punk-info svg:not(.shadow) {
 }
 
 .page-link {
-  font-size: var(--font-size-lg);
-  font-family: var(--font-family-title);
+  font-size: 1.5rem;
+  font-family: "P1";
   background-color: #000;
   border: 0;
   color: #fff;
