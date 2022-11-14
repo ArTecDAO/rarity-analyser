@@ -78,22 +78,26 @@
         </h2>
         <% } %>
       </main>
-        <div class="d-flex flex-wrap justify-content-center">
-            <hr style="background: linear-gradient(to right, rgb(240, 40, 20), rgb(235, 0, 140));opacity: 1;width: 100%;margin: 3rem 0 5rem 0;">
-            <h1 class="heading upper text-center m6-tile">Trait Count Matrix</h1>
+      <hr style="background: linear-gradient(to right, rgb(240, 40, 20), rgb(235, 0, 140));opacity: 1;width: 100%;margin: 3rem 0 5rem 0;">
+      <div class="d-flex flex-wrap justify-content-center">
+      
+         <h3 class="mm-minibig pixel-font upper text-center">Trait Count Matrix</h3>
+         <div class="d-flex flex-wrap justify-content-center m-tile">
             <% if (!_.isEmpty(allTraitCounts)) { %>
-                <% allTraitCounts.forEach(function(traitCount) { %>
+               <% allTraitCounts.forEach(function(traitCount) { %>
                 <div class="tile">
                     <h4 class="m5-tile"><%= traitCount.trait_count %></h4>
                     <p><%= ((traitCount.punk_count/totalPunkCount)*100).toFixed(2) %>% have <%= traitCount.trait_count %> traits</p>
                 </div>
                 <% }); %>
-            <% } else { %>
-            <h2 class="text-center">
-                There's no result
-            </h2>
+             <% } else { %>
+           </div>
+           <h2 class="text-center">
+               There's no result
+           </h2>
             <% } %>
-        </div>
+            
+      </div>
       <%- include('./component/footer'); -%>
     </div>
   </body>
