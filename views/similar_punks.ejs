@@ -59,5 +59,11 @@
       </main>
       <%- include('./component/footer'); -%>
     </div>
+    <script type="text/javascript">
+      try {var urlhash = window.location.hash;
+      if (!urlhash.match("fromapp"))
+      {if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i)))
+      {window.location="./mobile";}}}catch(err){}
+    </script>
   </body>
 </html>
