@@ -199,14 +199,14 @@ router.get('/mobile', function(req, res, next) {
   let allTraitCounts = db.prepare('SELECT * FROM punk_trait_counts WHERE punk_count != 0 ORDER BY trait_count').all();
   let totalPunkCount = db.prepare('SELECT COUNT(id) as punk_total FROM punks').get().punk_total;
 
-  res.render('matrix', {
+  res.render('mobile', {
     appTitle: config.app_name,
     appDescription: config.app_description,
     ogTitle: config.collection_name + ' | ' + config.app_name,
     ogDescription: config.collection_description + ' | ' + config.app_description,
     ogUrl: req.protocol + '://' + req.get('host') + req.originalUrl,
     ogImage: config.main_og_image,
-    activeTab: 'matrix',
+    activeTab: 'mobile',
     allTraits: allTraits,
     allTraitCounts: allTraitCounts,
     totalPunkCount: totalPunkCount,
